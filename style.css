@@ -12,7 +12,7 @@
     background-size: cover;
     padding: 0 8%;
     position: relative;
-    background-image: url('seventeentimers/tree/main/img/img/bck.jpg');
+    background-image: url('bck.jpg');
 }
 .content{
     position: absolute;
