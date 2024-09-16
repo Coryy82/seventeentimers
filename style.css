@@ -12,7 +12,7 @@
     background-size: cover;
     padding: 0 8%;
     position: relative;
-    background-image: url('/img/bck.jpg');
+    background-image: url('root/img/bck.jpg');
 }
 .content{
     position: absolute;
@@ -39,16 +39,6 @@
     justify-content: center;
     
 }
-.countdown p {
-    animation: num 1000ms ease-in;
-    transform: rotateX(0deg);
-}
-
-@keyframes num {
-    100%{
-        
-        transform: rotateX(90deg);
-    }
 }
 .countdown div{
     flex-basis: 100px;
