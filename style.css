@@ -12,7 +12,7 @@
     background-size: cover;
     padding: 0 8%;
     position: relative;
-    background-image: url('root/img/bck.jpg');
+    background-image: url('main/img/bck.jpg');
 }
 .content{
     position: absolute;
